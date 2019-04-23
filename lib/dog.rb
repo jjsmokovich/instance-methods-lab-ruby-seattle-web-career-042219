@@ -1,9 +1,4 @@
 class Dog 
-  def bark 
-    puts "Woof!"
-  end
-  
-  def sit 
-end
+  @bark = puts "Woof!"
 end 
 
